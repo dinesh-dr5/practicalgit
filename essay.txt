@@ -3,3 +3,4 @@ git config --global user.name "dinesh-dr5"
 git config --global user.email "a.dineshkumardon@gmail.com"
 my name is dinesh
 i wasn't asking your name. haha
+i am full stack devolper
